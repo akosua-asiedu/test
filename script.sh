@@ -1,3 +1,0 @@
-#!/bi/bash
-
-echo "Yaaasss"
